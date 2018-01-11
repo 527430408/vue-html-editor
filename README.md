@@ -3,5 +3,5 @@ a vue html editor
 
 usage
 
-import htmlEditor from 'vue-html-editor'
-Vue.use(htmlEditor)
+* import htmlEditor from 'vue-html-editor'
+* Vue.use(htmlEditor)
