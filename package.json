@@ -1,0 +1,19 @@
+{
+  "name": "vue-html-editor",
+  "version": "1.0.0",
+  "description": "a vue html editor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hling51325/vue-html-editor.git"
+  },
+  "author": "tokinechiya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hling51325/vue-html-editor/issues"
+  },
+  "homepage": "https://github.com/hling51325/vue-html-editor#readme"
+}
