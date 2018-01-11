@@ -5,4 +5,4 @@ usage
 
 * import htmlEditor from 'vue-html-editor'
 * Vue.use(htmlEditor)
-* <html-editor/>
+* `<html-editor/>`
